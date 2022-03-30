@@ -1,0 +1,15 @@
+{
+  "name": "yannys-project",
+  "version": "1.0.0",
+  "description": "first sample project",
+  "main": "src/index.js",
+  "module": "src/main.js",
+  "scripts": {
+    "test": "node -r esm src/main.js"
+  },
+  "author": "Yanny Dean",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
